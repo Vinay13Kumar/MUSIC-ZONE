@@ -83,11 +83,11 @@ To start your bot
 npm start
 ```
 ###
-WaveMusic is a discord music bot base in [Kazagumo](https://github.com/Takiyo0/Kazagumo) (Shoukaku)
+WaveMusic is a discord music bot made by [Vinay Kumar](https://github.com/Vinay13Kumar)
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/ns8CTk9J3e)](https://discord.gg/ns8CTk9J3e)
+[![DiscordBanner](https://media.discordapp.net/attachments/1108777925827907707/1108996508826751038/image.png)](https://discord.gg/ns8CTk9J3e)
 [Support Server](https://discord.gg/ns8CTk9J3e) - WaveMusic's Support Server Invite
 
 # Donate
