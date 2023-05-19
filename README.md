@@ -49,7 +49,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/brblacky/WaveMusic">
-    <img src="https://media.discordapp.net/attachments/966675680907657256/970258515090346054/Screenshot_20220501-150820__01.jpg">
+    <img src="https://media.discordapp.net/attachments/1108777925827907707/1108995307162841149/image.png">
   </a>
 </p>
 
