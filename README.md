@@ -21,9 +21,9 @@
     Music Zone is  a powerful music Bot
     <br />
     <br />
-    <a href="https://github.com/brblacky/WaveMusic/issues">Report Bug</a>
+    <a href="https://github.com/Vinay13Kumar/MUSIC-ZONE/issues">Report Bug</a>
     ·
-    <a href="https://github.com/brblacky/WaveMusic/issues">Request Feature</a>
+    <a href="https://github.com/Vinay13Kumar/MUSIC-ZONE/pulls">Request Feature</a>
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
