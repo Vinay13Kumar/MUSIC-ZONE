@@ -15,10 +15,10 @@
     <img src="https://images-ext-2.discordapp.net/external/e5ZXfyk3uIIECo2EzhZK3k8rijs4MMbX-jAzhFDKs7w/https/share.creavite.co/Ylk5hhmIRXI8SqKw.gif" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">WaveMusic</h3>
+  <h3 align="center">MUSIC ZONE</h3>
 
   <p align="center">
-    WaveMusic is  a powerful music Bot
+    Music Zone is  a powerful music Bot
     <br />
     <br />
     <a href="https://github.com/brblacky/WaveMusic/issues">Report Bug</a>
