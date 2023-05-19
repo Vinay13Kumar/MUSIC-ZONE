@@ -99,14 +99,14 @@ Distributed under the  GPL License. See [`LICENSE`](https://github.com/brblacky/
  ![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbrblacky%2FWaveMusic.svg?type=shield)
 
 [version-shield]: https://img.shields.io/github/package-json/v/brblacky/WaveMusic?style=for-the-badge
-[version-url]: https://github.com/brblacky/WaveMusic
+[version-url]: https://github.com/Vinay13Kumar
 [contributors-shield]: https://img.shields.io/github/contributors/brblacky/WaveMusic.svg?style=for-the-badge
-[contributors-url]: https://github.com/brblacky/WaveMusic/graphs/contributors
+[contributors-url]: https://github.com/Vinay13Kumar/MUSIC-ZONE/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/brblacky/WaveMusic.svg?style=for-the-badge
-[forks-url]: https://github.com/brblacky/WaveMusic/network/members
+[forks-url]: https://github.com/Vinay13Kumar/MUSIC-ZONE/network
 [stars-shield]: https://img.shields.io/github/stars/brblacky/WaveMusic.svg?style=for-the-badge
 [stars-url]: https://github.com/brblacky/lavamusic/stargazers
 [issues-shield]: https://img.shields.io/github/issues/brblacky/WaveMusic.svg?style=for-the-badge
-[issues-url]: https://github.com/brblacky/WaveMusic/issues
+[issues-url]: https://github.com/Vinay13Kumar/MUSIC-ZONE/issues
 [license-shield]: https://img.shields.io/github/license/brblacky/WaveMusic.svg?style=for-the-badge
 [license-url]: https://github.com/brblacky/WaveMusic/blob/master/LICENSE
