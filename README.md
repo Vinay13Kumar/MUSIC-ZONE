@@ -87,14 +87,8 @@ WaveMusic is a discord music bot made by [Vinay Kumar](https://github.com/Vinay1
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 ## 💌 Support Server
-[![DiscordBanner](https://media.discordapp.net/attachments/1108777925827907707/1108996508826751038/image.png)](https://discord.gg/ns8CTk9J3e)
-[Support Server](https://discord.gg/ns8CTk9J3e) - WaveMusic's Support Server Invite
-
-# Donate
-
- By Donating, You Will Help Me To Maintain This Project 
-
-- [PayPal](https://www.paypal.me/sdip521)
+[![DiscordBanner](https://media.discordapp.net/attachments/1108777925827907707/1108996508826751038/image.png)](https://discord.gg/c2MyY4WMQv)
+[Support Server](https://discord.gg/c2MyY4WMQv) - MusicZone's Support Server Invite
 
 
 <!-- LICENSE -->
