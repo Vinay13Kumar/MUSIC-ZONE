@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/brblacky/WaveMusic">
-    <img src="https://media.discordapp.net/attachments/963097935820750878/963098304483328030/20220411_160253.png" alt="Pbot-plus" width="200" height="200">
+    <img src="https://images-ext-2.discordapp.net/external/e5ZXfyk3uIIECo2EzhZK3k8rijs4MMbX-jAzhFDKs7w/https/share.creavite.co/Ylk5hhmIRXI8SqKw.gif" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">WaveMusic</h3>
