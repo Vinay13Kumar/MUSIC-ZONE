@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Vinay13Kumar/MUSIC-ZONE/tree/main">
-    <img src="https://media.discordapp.net/attachments/1099744359450152972/1108979037021417562/mzlarge.gif" alt="Pbot-plus" width="200" height="200">
+    <img src="https://images-ext-2.discordapp.net/external/e5ZXfyk3uIIECo2EzhZK3k8rijs4MMbX-jAzhFDKs7w/https/share.creavite.co/Ylk5hhmIRXI8SqKw.gif" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">MUSIC ZONE</h3>
