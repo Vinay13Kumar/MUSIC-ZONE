@@ -109,4 +109,4 @@ Distributed under the  GPL License. See [`LICENSE`](https://github.com/brblacky/
 [issues-shield]: https://img.shields.io/github/issues/brblacky/WaveMusic.svg?style=for-the-badge
 [issues-url]: https://github.com/Vinay13Kumar/MUSIC-ZONE/issues
 [license-shield]: https://img.shields.io/github/license/brblacky/WaveMusic.svg?style=for-the-badge
-[license-url]: https://github.com/brblacky/WaveMusic/blob/master/LICENSE
+[license-url]: https://github.com/Vinay13Kumar/MUSIC-ZONE/blob/main/LICENSE
