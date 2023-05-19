@@ -28,8 +28,7 @@
 </p>
 <!-- ABOUT THE PROJECT -->
 
-## 🌀 About
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brblacky&repo=WaveMusic&theme=tokyonight)](https://github.com/brblacky/lavamusic)
+
 ## 🎵 Support Source
 - [x] Youtube
 - [x] SoundCloud
